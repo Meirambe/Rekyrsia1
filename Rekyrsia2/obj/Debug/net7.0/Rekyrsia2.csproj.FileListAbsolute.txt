@@ -1,0 +1,14 @@
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\bin\Debug\net7.0\Rekyrsia2.exe
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\bin\Debug\net7.0\Rekyrsia2.deps.json
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\bin\Debug\net7.0\Rekyrsia2.runtimeconfig.json
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\bin\Debug\net7.0\Rekyrsia2.dll
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\bin\Debug\net7.0\Rekyrsia2.pdb
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.AssemblyInfoInputs.cache
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.AssemblyInfo.cs
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.csproj.CoreCompileInputs.cache
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.dll
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\refint\Rekyrsia2.dll
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.pdb
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\Rekyrsia2.genruntimeconfig.cache
+C:\Users\vipsu\Rekyrsia1\Rekyrsia1\Rekyrsia2\obj\Debug\net7.0\ref\Rekyrsia2.dll
